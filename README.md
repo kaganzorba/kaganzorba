@@ -19,7 +19,7 @@
     <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank" style="text-decoration:none;">
     <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
   </a>
   &nbsp;&nbsp;

@@ -1,18 +1,18 @@
-<h1 align="center">👋 Herkese merhaba, ben <strong>Kağan Zorba</strong></h1>
+<h1 align="center">👋 Hello everyone, I'm <strong>Kağan Zorba</strong></h1>
 
 ---
 
-## Hakkımda
+## About Me
 
-- 📍 Türkiye/Mersin’de yaşıyorum  
-- 🎓 Doğu Akdeniz Üniversitesi, Kıbrıs'ta okuyorum  
-- 💻 Frontend geliştirme alanına ilgi duyuyorum  
-- 📚 Şu anda HTML, CSS, JavaScript ve React öğreniyorum  
-- 📫 Bana ulaşmak istersen: kagannzorba@gmail.com  
+- 📍 I live in Mersin, Turkey  
+- 🎓 I'm studying at Eastern Mediterranean University in Cyprus  
+- 💻 I'm interested in frontend development  
+- 📚 Currently learning HTML, CSS, JavaScript, and React  
+- 📫 Feel free to contact me at: kagannzorba@gmail.com  
 
 ---
 
-## Kullandığım Teknolojiler
+## Technologies I Use
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -34,7 +34,7 @@
 
 ---
 
-## İletişim & Sosyal Medya
+## Contact & Social Media
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ka%C4%9Fanzorba-tech/" target="_blank">

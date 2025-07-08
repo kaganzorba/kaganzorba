@@ -15,7 +15,7 @@
 ## Technologies I Use
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
     <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
   </a>
   &nbsp;&nbsp;

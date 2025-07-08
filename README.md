@@ -4,7 +4,7 @@
 
 ## Hakkımda
 
-- 📍 Mersin’de yaşıyorum  
+- 📍 Türkiye/Mersin’de yaşıyorum  
 - 🎓 Doğu Akdeniz Üniversitesi, Kıbrıs'ta okuyorum  
 - 💻 Frontend geliştirme alanına ilgi duyuyorum  
 - 📚 Şu anda HTML, CSS, JavaScript ve React öğreniyorum  

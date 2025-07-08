@@ -30,6 +30,9 @@
   <a href="https://reactjs.org/" target="blank">
     <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
   </a>
+  <style type="text/css">
+     a {text-decoration:none;}
+  </style>
 </p>
 
 ---

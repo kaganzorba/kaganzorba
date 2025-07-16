@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 📍 I live in Mersin, Turkey  
+- 📍 I live in Mersin,Turkey  
 - 🎓 I'm studying at Eastern Mediterranean University in Cyprus  
 - 💻 I'm interested in frontend development  
 - 📚 Currently learning HTML, CSS, JavaScript, and React  
